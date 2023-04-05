@@ -1,6 +1,6 @@
 # Blubs-Abenteuer
 "Blubs Abenteuer" is a Serious Game for pre-school children to teach the basics of numeracy (numbers from 1 to 20, addition and substraction).
-It was developed by Maximilian Anzinger (MaximilianAnzinger) and Georg Henning (Mauri2070) as IDP (interdisciplinary project) during the Master of Informatics at TUM (Technical University of Munich).
+It was developed by Maximilian Anzinger (github.com/MaximilianAnzinger) and Georg Henning (github.com/Mauri2070) as IDP (interdisciplinary project) during the Master of Informatics at TUM (Technical University of Munich).
 The development was guided by the team of Prof. Dr. Frank Niklas, professor for Educational Psychology and Family Studies at LMU (Ludwig-Maximilian Universtiy Munich).
 
 # Repository Structure
