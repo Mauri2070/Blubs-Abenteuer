@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fdfd250a504278419a4af5265cf95a8, type: 3}
+  m_Name: N_1_4_0
+  m_EditorClassIdentifier: 
+  proconditions:
+  - {fileID: 11400000, guid: 9d35b1bec4cb50743abdd85922211f31, type: 2}
+  hasRoomOutput: 0
+  roomOutput: {fileID: 0}
+  storySequence: {fileID: 11400000, guid: 6563c38065ba61e4abed5cd151cfff8d, type: 2}
+  hasFinalMiniGame: 1
+  finalMiniGame: {fileID: 11400000, guid: 2c44b24ea1a17c14a8a54350dbac0ec3, type: 2}

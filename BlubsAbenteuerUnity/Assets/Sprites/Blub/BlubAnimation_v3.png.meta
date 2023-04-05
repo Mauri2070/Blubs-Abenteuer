@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: a6d1f1703a913404899551b228f9e936
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3392136394778289192
+    second: BlubAnimation_v3_0
+  - first:
+      213: 1683044927915151204
+    second: BlubAnimation_v3_1
+  - first:
+      213: -2425265644227797905
+    second: BlubAnimation_v3_2
+  - first:
+      213: 5089229165208748599
+    second: BlubAnimation_v3_3
+  - first:
+      213: -7113042082704443346
+    second: BlubAnimation_v3_4
+  - first:
+      213: -8408588217561670959
+    second: BlubAnimation_v3_5
+  - first:
+      213: -5655736032220818215
+    second: BlubAnimation_v3_6
+  - first:
+      213: -2507509171363482507
+    second: BlubAnimation_v3_7
+  - first:
+      213: 6358556808939529054
+    second: BlubAnimation_v3_8
+  - first:
+      213: -4100761542312140410
+    second: BlubAnimation_v3_9
+  - first:
+      213: 4575772504541332999
+    second: BlubAnimation_v3_10
+  - first:
+      213: 8091525996198921405
+    second: BlubAnimation_v3_11
+  - first:
+      213: 3282620453530484810
+    second: BlubAnimation_v3_12
+  - first:
+      213: 1338685853645572221
+    second: BlubAnimation_v3_13
+  - first:
+      213: -7411011201905853385
+    second: BlubAnimation_v3_14
+  - first:
+      213: 3781116981018546553
+    second: BlubAnimation_v3_15
+  - first:
+      213: -2239251265973781785
+    second: BlubAnimation_v3_16
+  - first:
+      213: -8797400438390427687
+    second: BlubAnimation_v3_17
+  - first:
+      213: 4781266164960114854
+    second: BlubAnimation_v3_18
+  - first:
+      213: 4446236597193276520
+    second: BlubAnimation_v3_19
+  - first:
+      213: -8921775513904740111
+    second: BlubAnimation_v3_20
+  - first:
+      213: 8590413243789168138
+    second: BlubAnimation_v3_21
+  - first:
+      213: 8783277727081918570
+    second: BlubAnimation_v3_22
+  - first:
+      213: 5598455794730202003
+    second: BlubAnimation_v3_23
+  - first:
+      213: 6314894429598261068
+    second: BlubAnimation_v3_24
+  - first:
+      213: -6385146325084184492
+    second: BlubAnimation_v3_25
+  - first:
+      213: 4848694266922920234
+    second: BlubAnimation_v3_26
+  - first:
+      213: -2101234774300943604
+    second: BlubAnimation_v3_27
+  - first:
+      213: -2082534681992523887
+    second: BlubAnimation_v3_28
+  - first:
+      213: -8744051086359491247
+    second: BlubAnimation_v3_29
+  - first:
+      213: 6703663792697628096
+    second: BlubAnimation_v3_30
+  - first:
+      213: -6849122610151646255
+    second: BlubAnimation_v3_31
+  - first:
+      213: 5424758527159948743
+    second: BlubAnimation_v3_32
+  - first:
+      213: 8714866444271463318
+    second: BlubAnimation_v3_33
+  - first:
+      213: -5109433446579725548
+    second: BlubAnimation_v3_34
+  - first:
+      213: 7977111862769587688
+    second: BlubAnimation_v3_35
+  - first:
+      213: -5280505069814611307
+    second: BlubAnimation_v3_36
+  - first:
+      213: -4470373078934191626
+    second: BlubAnimation_v3_37
+  - first:
+      213: -7804773545276033821
+    second: BlubAnimation_v3_38
+  - first:
+      213: -5907146954788905560
+    second: BlubAnimation_v3_39
+  - first:
+      213: 7326352061494815811
+    second: BlubAnimation_v3_40
+  - first:
+      213: 6429576760038634605
+    second: BlubAnimation_v3_41
+  - first:
+      213: 9024818555861240915
+    second: BlubAnimation_v3_42
+  - first:
+      213: 6890268374021529969
+    second: BlubAnimation_v3_43
+  - first:
+      213: -3482821574428618078
+    second: BlubAnimation_v3_44
+  - first:
+      213: -4838090217667239985
+    second: BlubAnimation_v3_45
+  - first:
+      213: 1293901139550571680
+    second: BlubAnimation_v3_46
+  - first:
+      213: -6894925574275689604
+    second: BlubAnimation_v3_47
+  - first:
+      213: -1120825017632121847
+    second: BlubAnimation_v3_48
+  - first:
+      213: -5829606387729909480
+    second: BlubAnimation_v3_49
+  - first:
+      213: -5661763405512607177
+    second: BlubAnimation_v3_50
+  - first:
+      213: 299158131260481135
+    second: BlubAnimation_v3_51
+  - first:
+      213: 730596671907646672
+    second: BlubAnimation_v3_52
+  - first:
+      213: -4698089381097562118
+    second: BlubAnimation_v3_53
+  - first:
+      213: -3120047503848596874
+    second: BlubAnimation_v3_54
+  - first:
+      213: -4911514348671774696
+    second: BlubAnimation_v3_55
+  - first:
+      213: 6287777553030703092
+    second: BlubAnimation_v3_56
+  - first:
+      213: 3762886455993596610
+    second: BlubAnimation_v3_57
+  - first:
+      213: 7279580680158077116
+    second: BlubAnimation_v3_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlubAnimation_v3_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8242f68241a431f20800000000000000
+      internalID: 3392136394778289192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc76dd1706b5710800000000000000
+      internalID: 1683044927915151204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd7d50fb9b75ed0800000000000000
+      internalID: -2425265644227797905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_3
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73243dc36f290a640800000000000000
+      internalID: 5089229165208748599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_4
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e283ffb89e5694d90800000000000000
+      internalID: -7113042082704443346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_5
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da93b51191be4b80800000000000000
+      internalID: -8408588217561670959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_6
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4d9184b0ac281b0800000000000000
+      internalID: -5655736032220818215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_7
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57478d9a1b9833dd0800000000000000
+      internalID: -2507509171363482507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_8
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536bf88ab12e3850800000000000000
+      internalID: 6358556808939529054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_9
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681e6e1aa1b2717c0800000000000000
+      internalID: -4100761542312140410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_10
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7068f2279d8608f30800000000000000
+      internalID: 4575772504541332999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_11
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db48646d500ea4070800000000000000
+      internalID: 8091525996198921405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_12
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40cd1119e53e8d20800000000000000
+      internalID: 3282620453530484810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_13
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d788264f0b7f39210800000000000000
+      internalID: 1338685853645572221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_14
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf5fbb39cc62990800000000000000
+      internalID: -7411011201905853385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_15
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971decb6cd9397430800000000000000
+      internalID: 3781116981018546553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_16
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf9c076d49ce0e0800000000000000
+      internalID: -2239251265973781785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df6fd279ea59e580800000000000000
+      internalID: -8797400438390427687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8ba0bae387a5240800000000000000
+      internalID: 4781266164960114854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_19
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfb03c0a434bd30800000000000000
+      internalID: 4446236597193276520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_20
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f80eef807c7f2480800000000000000
+      internalID: -8921775513904740111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_21
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e4dddc457473770800000000000000
+      internalID: 8590413243789168138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_22
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6071569e8874e970800000000000000
+      internalID: 8783277727081918570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_23
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393fe9722e5b1bd40800000000000000
+      internalID: 5598455794730202003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_24
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1c46a60303a750800000000000000
+      internalID: 6314894429598261068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_25
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450677e4f376367a0800000000000000
+      internalID: -6385146325084184492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_26
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e96c0fb50a4340800000000000000
+      internalID: 4848694266922920234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_27
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b18180b1ae6d2e0800000000000000
+      internalID: -2101234774300943604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_28
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f876f8db95913e0800000000000000
+      internalID: -2082534681992523887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_29
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8cab6dd3e6a680800000000000000
+      internalID: -8744051086359491247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_30
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d361b3b2380d50800000000000000
+      internalID: 6703663792697628096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_31
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db90d6364703f0a0800000000000000
+      internalID: -6849122610151646255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_32
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d3ab832d984b40800000000000000
+      internalID: 5424758527159948743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_33
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba5c39bdc61f870800000000000000
+      internalID: 8714866444271463318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b9d1de955a719b0800000000000000
+      internalID: -5109433446579725548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59fe189f464be60800000000000000
+      internalID: 7977111862769587688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_36
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5920d07cd90e7b6b0800000000000000
+      internalID: -5280505069814611307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_37
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f188a8ae5b06f1c0800000000000000
+      internalID: -4470373078934191626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_38
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b471efcfdfa390800000000000000
+      internalID: -7804773545276033821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_39
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add6cb5429950ea0800000000000000
+      internalID: -5907146954788905560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_40
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c69dc126e6ca560800000000000000
+      internalID: 7326352061494815811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_41
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b5367ff17a3950800000000000000
+      internalID: 6429576760038634605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_42
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c867839a89e3d70800000000000000
+      internalID: 9024818555861240915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_43
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17169a874962f9f50800000000000000
+      internalID: 6890268374021529969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_44
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29d181b388aafc0800000000000000
+      internalID: -3482821574428618078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_45
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfd6a09496abdcb0800000000000000
+      internalID: -4838090217667239985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_46
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac82652b3cd4f110800000000000000
+      internalID: 1293901139550571680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_47
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c739a8898bd4050a0800000000000000
+      internalID: -6894925574275689604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_48
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c9aa8b5970270f0800000000000000
+      internalID: -1120825017632121847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_49
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819b20f70e3191fa0800000000000000
+      internalID: -5829606387729909480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_50
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7d141e206d61b0800000000000000
+      internalID: -5661763405512607177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e53714cb2d62400800000000000000
+      internalID: 299158131260481135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc432f5dc9932a00800000000000000
+      internalID: 730596671907646672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_53
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff15a479980dceb0800000000000000
+      internalID: -4698089381097562118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_54
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a92c2735d53b4d0800000000000000
+      internalID: -3120047503848596874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_55
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8105f22e8bbc6dbb0800000000000000
+      internalID: -4911514348671774696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_56
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7e113de5ca24750800000000000000
+      internalID: 6287777553030703092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_57
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca70ab8b45783430800000000000000
+      internalID: 3762886455993596610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation_v3_58
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb06e9a4f04460560800000000000000
+      internalID: 7279580680158077116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

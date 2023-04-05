@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6588b387cd2952c499b44fd6c846bfdc, type: 3}
+  m_Name: E3_03_01
+  m_EditorClassIdentifier: 
+  gameType: 5
+  minValue: 1
+  maxValue: 15
+  useExplicitValues: 0
+  explicitValues: 
+  numberOfValues: 5
+  displayMode: 2
+  numberRepresentation: 0
+  alternativeRepresentation: 0
+  increasing: 0
+  numberOfNonSolutionValues: 0
+  numberAudioActive: 0
+  useExplicitMissingValues: 0
+  missingValues: 
+  numberMissingValues: 1
+  rightSideDisplayMode: 2
+  targetValue: 0
+  memorySize: 0
+  matchSetText: 0
+  secondRepresentation: 0
+  subtract: 0

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 635b701e12d6d1940a5aac6be4e20959, type: 3}
+  m_Name: LinesRepresentation
+  m_EditorClassIdentifier: 
+  numberSprites:
+  - {fileID: 21300000, guid: 3e3047bb94025f247a6d48bde407148d, type: 3}
+  - {fileID: 21300000, guid: 0f22aaba91d85734b985700b3625ec42, type: 3}
+  - {fileID: 21300000, guid: df3f623cd40dfeb45b72ddf6b5c70389, type: 3}
+  - {fileID: 21300000, guid: 29dd556f23aaec54b8d9f2f3f8f13bc6, type: 3}
+  - {fileID: 21300000, guid: 72d9d5bc10abddb409814415f5001be3, type: 3}
+  - {fileID: 21300000, guid: 9607ebae5efffb945ad92ccddd347c1f, type: 3}
+  - {fileID: 21300000, guid: 00bb4e40c148acf4c8ad868a7e0c9dfd, type: 3}
+  - {fileID: 21300000, guid: 947122c6c3bd12f4695b9965768a869b, type: 3}
+  - {fileID: 21300000, guid: e8ab651d4244cff48b3cff54308837eb, type: 3}
+  - {fileID: 21300000, guid: a663e546b1984e94e85deb703155ceac, type: 3}
+  - {fileID: 21300000, guid: 8d63fee1e9975764f8e321c71d8c2203, type: 3}
+  - {fileID: 21300000, guid: 30bc63a33d8100a488d19a92f2b89c4d, type: 3}
+  - {fileID: 21300000, guid: 05ba04648a18d874a92569cc1285fc48, type: 3}
+  - {fileID: 21300000, guid: e8cdf75b627fdd84798625daec6b0da4, type: 3}
+  - {fileID: 21300000, guid: 2c9fd3ed898c0d044ba1057d91850619, type: 3}
+  - {fileID: 21300000, guid: bd63afbb9880e9b4f94de9fac2cda890, type: 3}
+  - {fileID: 21300000, guid: 9b2ea9c7b022ba840aa7bedd53e08cfe, type: 3}
+  - {fileID: 21300000, guid: f4f8d41126ab74a4598a2c5b228f35c0, type: 3}
+  - {fileID: 21300000, guid: 802843d08c0c0c541b03c148b127317b, type: 3}
+  - {fileID: 21300000, guid: 87fb5d785bce8744abe495e38f791dd1, type: 3}
+  alternative5: {fileID: 21300000, guid: 72d9d5bc10abddb409814415f5001be3, type: 3}
+  alternative10: {fileID: 21300000, guid: a663e546b1984e94e85deb703155ceac, type: 3}
+  alternative20: {fileID: 21300000, guid: 87fb5d785bce8744abe495e38f791dd1, type: 3}
+  defaultSprite: {fileID: 21300000, guid: c79216d0e4bbbb048a195c20b641ffea, type: 3}
+  nullSprite: {fileID: 21300000, guid: c79216d0e4bbbb048a195c20b641ffea, type: 3}

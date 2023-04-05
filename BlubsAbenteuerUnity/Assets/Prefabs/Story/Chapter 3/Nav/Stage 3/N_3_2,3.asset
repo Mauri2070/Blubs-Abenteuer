@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a569c4e1f66c0e94d854f34a5a9edee7, type: 3}
+  m_Name: N_3_2,3
+  m_EditorClassIdentifier: 
+  proconditions:
+  - {fileID: 11400000, guid: 0aee4e3e4be724448ab376a8ab562dde, type: 2}
+  hasRoomOutput: 1
+  roomOutput: {fileID: 11400000, guid: 4bb4b8f80e9926d4ab10fe92961a7bf1, type: 2}
+  miniGames:
+  - {fileID: 11400000, guid: 5384d9f4e1a91f840914f979a73ab882, type: 2}
+  - {fileID: 11400000, guid: a3d66e6d26cb52f488cb972eb5d200a2, type: 2}
+  - {fileID: 11400000, guid: c9dbd710a9d1c2945a81c45938809106, type: 2}
+  - {fileID: 11400000, guid: fe3fe13328619124191abc144197af47, type: 2}
+  exerciseGames:
+  - {fileID: 11400000, guid: c900f980618bcd34bbd59d69108681b4, type: 2}
+  - {fileID: 11400000, guid: c900f980618bcd34bbd59d69108681b4, type: 2}
+  - {fileID: 11400000, guid: c900f980618bcd34bbd59d69108681b4, type: 2}
+  - {fileID: 11400000, guid: c900f980618bcd34bbd59d69108681b4, type: 2}
+  miniGameAnchorPoints:
+  - {x: 57, y: 214}
+  - {x: 127, y: -270}
+  - {x: -164, y: -375}
+  - {x: 449, y: -191}
+  selectorPrefab: {fileID: 8138763727346559420, guid: 04c4060c4c0896443bb77d1d5a4fc193, type: 3}
+  room: 1

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &561157381306068160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 561157381306068287}
+  - component: {fileID: 561157381306068286}
+  - component: {fileID: 561157381306068161}
+  m_Layer: 0
+  m_Name: Canvas Controller Scripts
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &561157381306068287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561157381306068160}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &561157381306068286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561157381306068160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea3f146adc6d4aa48b27f63c15540697, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  storyDisplayCanvas: {fileID: 0}
+  ufoRoomCanvas: {fileID: 0}
+  miniGameCanvas: {fileID: 0}
+  roomBackground: {fileID: 0}
+  hubNavButton: {fileID: 0}
+  navHubButton: {fileID: 0}
+  hubLabButton: {fileID: 0}
+  labHubButton: {fileID: 0}
+  hubEngineButton: {fileID: 0}
+  engineHubButton: {fileID: 0}
+  cutOnMiniGame: {fileID: 0}
+  gameStartButtonsParent: {fileID: 0}
+  toMainMenuMenu: {fileID: 0}
+  vsGameAskMenu: {fileID: 0}
+--- !u!114 &561157381306068161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561157381306068160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92a3b06ace8e80e4982ed830b5e555ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameObjectParents:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  taskTextDistributer: {fileID: 0}
+  taskTexts:
+  - {fileID: 11400000, guid: f194f2e95a323f44087e5e7d05b251b0, type: 2}
+  - {fileID: 11400000, guid: bbc84e00601852a4798fc146718e752e, type: 2}
+  - {fileID: 11400000, guid: 700200135f64ec54b980e520eb2de0ed, type: 2}
+  - {fileID: 11400000, guid: edfb8f0abf23ac040af8e858a642fdae, type: 2}
+  - {fileID: 11400000, guid: cc462071d5c7f8846b1630d3169f459c, type: 2}
+  - {fileID: 11400000, guid: 1e55965116de95a4d9537cae11fe727e, type: 2}
+  - {fileID: 11400000, guid: 61666b2278629814d9fb2e342b21d063, type: 2}
+  - {fileID: 11400000, guid: 0bd70a413fe498842a0ee1ae3009560c, type: 2}
+  - {fileID: 11400000, guid: 009c76efcba73f44a9fa420bef97fcce, type: 2}
+  - {fileID: 11400000, guid: 8df43f5031b6c2749a549451a0283b55, type: 2}
+  - {fileID: 11400000, guid: 0dd4d38f0a8804743a9c2d0ab2e8bcf5, type: 2}
+  menuParent: {fileID: 0}
+  gameEndMenu: {fileID: 0}
+  explanationMenu: {fileID: 0}
+  pauseMenu: {fileID: 0}
+  stillPlayingMenu: {fileID: 0}
+  taskDescriptionObjects: {fileID: 0}
+  increasingIndicator: {fileID: 0}
+  decreasingIndicator: {fileID: 0}
+  motivationalMessageDistributer: {fileID: 0}
+  motivationalMessageDummy: {fileID: 11400000, guid: 9adb2e1632ab2694fbfabf46794088f4, type: 2}
+  star1: {fileID: 0}
+  star2: {fileID: 0}
+  star3: {fileID: 0}
+  motivationalMessages1:
+  - {fileID: 11400000, guid: bf48f7f17faf0aa41be0508721294dc3, type: 2}
+  - {fileID: 11400000, guid: 86513610d99bc364288bc36d73aef4e3, type: 2}
+  - {fileID: 11400000, guid: a744019c8b2f6ae4fb151bc7f861b260, type: 2}
+  motivationalMessages2:
+  - {fileID: 11400000, guid: 5c87fd0899b465d4da359fb599999e71, type: 2}
+  - {fileID: 11400000, guid: 5dd48078b58e7cd44b0305c80445dea7, type: 2}
+  - {fileID: 11400000, guid: 4736a961810d80545996b05a2704605f, type: 2}
+  motivationalMessages3:
+  - {fileID: 11400000, guid: f01f4a2e7c006dd428273b3ac9f1a30c, type: 2}
+  - {fileID: 11400000, guid: 5881173785c844a4c85805e31ca7c335, type: 2}
+  - {fileID: 11400000, guid: a6f49f88a948b3841834e2cbeb814865, type: 2}
+  memoryChildWinMessage: {fileID: 11400000, guid: 89fbbe17c232cab4e9640fb903893aa7, type: 2}
+  memoryParentWinMessage: {fileID: 11400000, guid: 9945432c2c1c6ac489f94659b2c1af9a, type: 2}
+  memoryDrawMessage: {fileID: 11400000, guid: dc2f0c55b63daf9408622b1aac3f99fc, type: 2}
+  childFaster: {fileID: 11400000, guid: 1bab89fcbf443224189cf157f9ccb036, type: 2}
+  parentFaster: {fileID: 11400000, guid: 7a110e742b136bb42a00ea903a54cc07, type: 2}
+  exerciseObjects: {fileID: 0}
+  videoPlayer: {fileID: 0}
+  InsertGIF: {fileID: 32900000, guid: da7e6cdbdd5d741458a3812c164a919e, type: 3}
+  CountGIF: {fileID: 32900000, guid: 94560f33e28966146be1d291917eba80, type: 3}
+  PairsGIF: {fileID: 32900000, guid: 865081f5fb8b2c44aa2f0cbe23a4967f, type: 3}
+  AddGIF: {fileID: 32900000, guid: e6fc60cd69594994a81758b293cd7e97, type: 3}
+  MemoryGIF: {fileID: 32900000, guid: a4c6f30819cae6440bb59b0f4b221371, type: 3}
+  ConnectGIF: {fileID: 32900000, guid: f7a80c799c09a404fa3af49482401630, type: 3}
+  AdditionGIF: {fileID: 32900000, guid: feae7f44b79269640ada1a67f2215ae9, type: 3}
+  SubtractionGIF: {fileID: 32900000, guid: d32426da4e3ff2c409f1fe08b9b2cf7f, type: 3}
+  additionButton: {fileID: 0}
+  subtractionButton: {fileID: 0}

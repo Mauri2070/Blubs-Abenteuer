@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fdfd250a504278419a4af5265cf95a8, type: 3}
+  m_Name: H_3_1_Swap3
+  m_EditorClassIdentifier: 
+  proconditions:
+  - {fileID: 11400000, guid: 3bd81ab8c4ac015408e7938c1979cd95, type: 2}
+  - {fileID: 11400000, guid: ffdcbdc8714a2554caf9086be09ae877, type: 2}
+  - {fileID: 11400000, guid: 8132466a7d7a5ad40a06f0674a8d5571, type: 2}
+  hasRoomOutput: 0
+  roomOutput: {fileID: 0}
+  storySequence: {fileID: 11400000, guid: 672a476a9cb183f45a1a767344a20e71, type: 2}
+  hasFinalMiniGame: 0
+  finalMiniGame: {fileID: 0}

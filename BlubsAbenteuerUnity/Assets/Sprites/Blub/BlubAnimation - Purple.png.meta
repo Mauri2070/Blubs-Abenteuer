@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: fa6577c673623f64481c15beb3bd3466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 535209457043654439
+    second: BlubAnimation - Purple_0
+  - first:
+      213: -2563842710580356327
+    second: BlubAnimation - Purple_1
+  - first:
+      213: 1944107127444037060
+    second: BlubAnimation - Purple_2
+  - first:
+      213: 5217714300953739318
+    second: BlubAnimation - Purple_3
+  - first:
+      213: 2014369526370107026
+    second: BlubAnimation - Purple_4
+  - first:
+      213: 2247696711675671046
+    second: BlubAnimation - Purple_5
+  - first:
+      213: -6138672545604015790
+    second: BlubAnimation - Purple_6
+  - first:
+      213: -7646511133974228430
+    second: BlubAnimation - Purple_7
+  - first:
+      213: -4608269498222797898
+    second: BlubAnimation - Purple_8
+  - first:
+      213: 4278476432183780526
+    second: BlubAnimation - Purple_9
+  - first:
+      213: -5972670680939993186
+    second: BlubAnimation - Purple_10
+  - first:
+      213: -3360741894395107214
+    second: BlubAnimation - Purple_11
+  - first:
+      213: 3582447983291638712
+    second: BlubAnimation - Purple_12
+  - first:
+      213: 2858164683920370268
+    second: BlubAnimation - Purple_13
+  - first:
+      213: 675956552599360119
+    second: BlubAnimation - Purple_14
+  - first:
+      213: -2085975270585149440
+    second: BlubAnimation - Purple_15
+  - first:
+      213: 7868797020964616800
+    second: BlubAnimation - Purple_16
+  - first:
+      213: -8229732196385575831
+    second: BlubAnimation - Purple_17
+  - first:
+      213: 1318162074106312620
+    second: BlubAnimation - Purple_18
+  - first:
+      213: -2162410486179011647
+    second: BlubAnimation - Purple_19
+  - first:
+      213: -7512897890076077143
+    second: BlubAnimation - Purple_20
+  - first:
+      213: -3883025867699903461
+    second: BlubAnimation - Purple_21
+  - first:
+      213: 5015552992309904600
+    second: BlubAnimation - Purple_22
+  - first:
+      213: 1337135434501103702
+    second: BlubAnimation - Purple_23
+  - first:
+      213: -926059291792101253
+    second: BlubAnimation - Purple_24
+  - first:
+      213: 8411828132284151535
+    second: BlubAnimation - Purple_25
+  - first:
+      213: -1750815327709371602
+    second: BlubAnimation - Purple_26
+  - first:
+      213: 4048460478857747498
+    second: BlubAnimation - Purple_27
+  - first:
+      213: 9198521067343635124
+    second: BlubAnimation - Purple_28
+  - first:
+      213: 5800540773636680883
+    second: BlubAnimation - Purple_29
+  - first:
+      213: 5235931882918432997
+    second: BlubAnimation - Purple_30
+  - first:
+      213: 1061923931215480370
+    second: BlubAnimation - Purple_31
+  - first:
+      213: -4375399821042257982
+    second: BlubAnimation - Purple_32
+  - first:
+      213: -9156510127263471850
+    second: BlubAnimation - Purple_33
+  - first:
+      213: -3297577028696041295
+    second: BlubAnimation - Purple_34
+  - first:
+      213: 2005848844670075038
+    second: BlubAnimation - Purple_35
+  - first:
+      213: 8754121474505659251
+    second: BlubAnimation - Purple_36
+  - first:
+      213: 7986583948102595551
+    second: BlubAnimation - Purple_37
+  - first:
+      213: 3762523303572539054
+    second: BlubAnimation - Purple_38
+  - first:
+      213: -195181644635365578
+    second: BlubAnimation - Purple_39
+  - first:
+      213: -8578536384049197800
+    second: BlubAnimation - Purple_40
+  - first:
+      213: -4514537843677363285
+    second: BlubAnimation - Purple_41
+  - first:
+      213: -6744428193654452902
+    second: BlubAnimation - Purple_42
+  - first:
+      213: 1380133502499929286
+    second: BlubAnimation - Purple_43
+  - first:
+      213: -8071689549910796037
+    second: BlubAnimation - Purple_44
+  - first:
+      213: -6846913103909045153
+    second: BlubAnimation - Purple_45
+  - first:
+      213: 5128549697152403187
+    second: BlubAnimation - Purple_46
+  - first:
+      213: -3362937167605531172
+    second: BlubAnimation - Purple_47
+  - first:
+      213: 4135938138335573164
+    second: BlubAnimation - Purple_48
+  - first:
+      213: 4769569840221895466
+    second: BlubAnimation - Purple_49
+  - first:
+      213: 5020034326105287775
+    second: BlubAnimation - Purple_50
+  - first:
+      213: -3546826923052695937
+    second: BlubAnimation - Purple_51
+  - first:
+      213: -5983757584321689321
+    second: BlubAnimation - Purple_52
+  - first:
+      213: 166511239684522727
+    second: BlubAnimation - Purple_53
+  - first:
+      213: 7582302819757367395
+    second: BlubAnimation - Purple_54
+  - first:
+      213: -8263138386202406122
+    second: BlubAnimation - Purple_55
+  - first:
+      213: -8096956866779131099
+    second: BlubAnimation - Purple_56
+  - first:
+      213: 8723841004086873781
+    second: BlubAnimation - Purple_57
+  - first:
+      213: 7824781065152083419
+    second: BlubAnimation - Purple_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727448f5a227d6700800000000000000
+      internalID: 535209457043654439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b12e773a66b6cd0800000000000000
+      internalID: -2563842710580356327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd5b90d12bdafa10800000000000000
+      internalID: 1944107127444037060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_3
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c2d7138b096840800000000000000
+      internalID: 5217714300953739318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_4
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e79a1696a74fb10800000000000000
+      internalID: 2014369526370107026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_5
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602fd3e104c613f10800000000000000
+      internalID: 2247696711675671046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_6
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25964d608dd0fcaa0800000000000000
+      internalID: -6138672545604015790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_7
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329568f2a222e590800000000000000
+      internalID: -7646511133974228430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_8
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb99299e432c00c0800000000000000
+      internalID: -4608269498222797898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_9
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4e13095a3306b30800000000000000
+      internalID: 4278476432183780526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_10
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976e2609afcc1da0800000000000000
+      internalID: -5972670680939993186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_11
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786ec29d0f3c51d0800000000000000
+      internalID: -3360741894395107214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_12
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3a96ec57967b130800000000000000
+      internalID: 3582447983291638712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_13
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae3a603ad3aa720800000000000000
+      internalID: 2858164683920370268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_14
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772584937ea716900800000000000000
+      internalID: 675956552599360119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_15
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008d58a1b802d03e0800000000000000
+      internalID: -2085975270585149440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_16
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 3516
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7f3c2335933d60800000000000000
+      internalID: 7868797020964616800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca7dd9b2e1acd80800000000000000
+      internalID: -8229732196385575831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7bf772c6d0b4210800000000000000
+      internalID: 1318162074106312620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_19
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c368b8ae139df1e0800000000000000
+      internalID: -2162410486179011647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_20
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3db3c8c23dcb790800000000000000
+      internalID: -7512897890076077143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_21
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b142816eb88bc1ac0800000000000000
+      internalID: -3883025867699903461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_22
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d487ca7fd2da9540800000000000000
+      internalID: 5015552992309904600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_23
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650a60ed7957e8210800000000000000
+      internalID: 1337135434501103702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_24
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7038c70bf9f523f0800000000000000
+      internalID: -926059291792101253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_25
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63f685e11dcb470800000000000000
+      internalID: 8411828132284151535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_26
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e2945cbad3b7e0800000000000000
+      internalID: -1750815327709371602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_27
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c16891b550f2830800000000000000
+      internalID: 4048460478857747498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_28
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e6f5cc26b7af70800000000000000
+      internalID: 9198521067343635124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_29
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca8cdd919af7050800000000000000
+      internalID: 5800540773636680883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_30
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0de7d6e44c9a840800000000000000
+      internalID: 5235931882918432997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_31
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c59a6036bcbe00800000000000000
+      internalID: 1061923931215480370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_32
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe77c6b057743c0800000000000000
+      internalID: -4375399821042257982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_33
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 2940
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a1327d8a8de080800000000000000
+      internalID: -9156510127263471850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b89519e927ac32d0800000000000000
+      internalID: -3297577028696041295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9000b395e436db10800000000000000
+      internalID: 2005848844670075038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_36
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37357888913ec7970800000000000000
+      internalID: 8754121474505659251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_37
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3fd7b39cb06de60800000000000000
+      internalID: 7986583948102595551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_38
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60298820b273430800000000000000
+      internalID: 3762523303572539054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_39
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f15dc04539a4df0800000000000000
+      internalID: -195181644635365578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_40
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dcbf71c9ae2f880800000000000000
+      internalID: -8578536384049197800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_41
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba38d8e00c32951c0800000000000000
+      internalID: -4514537843677363285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_42
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc8189a4af662a0800000000000000
+      internalID: -6744428193654452902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_43
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccbf17bb18372310800000000000000
+      internalID: 1380133502499929286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_44
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf89558be199bff80800000000000000
+      internalID: -8071689549910796037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_45
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cb889fec0eaf0a0800000000000000
+      internalID: -6846913103909045153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_46
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c4bff6c44c2740800000000000000
+      internalID: 5128549697152403187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_47
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddf9e2b6727451d0800000000000000
+      internalID: -3362937167605531172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_48
+      rect:
+        serializedVersion: 2
+        x: 6652
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47b7cd2ddc56930800000000000000
+      internalID: 4135938138335573164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_49
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bb7d9df7ae03240800000000000000
+      internalID: 4769569840221895466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_50
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 2364
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ce5cf4f9ebaa540800000000000000
+      internalID: 5020034326105287775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ef6a394b327cec0800000000000000
+      internalID: -3546826923052695937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c47c2e2c65fca0800000000000000
+      internalID: -5983757584321689321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_53
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2818c17119f4200800000000000000
+      internalID: 166511239684522727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_54
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a417ed30c93960800000000000000
+      internalID: 7582302819757367395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_55
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613d280fa6f635d80800000000000000
+      internalID: -8263138386202406122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_56
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52358f111a4d1af80800000000000000
+      internalID: -8096956866779131099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_57
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec59d1c2f411970800000000000000
+      internalID: 8723841004086873781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlubAnimation - Purple_58
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1788
+        width: 370
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b799dbe4379c60800000000000000
+      internalID: 7824781065152083419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

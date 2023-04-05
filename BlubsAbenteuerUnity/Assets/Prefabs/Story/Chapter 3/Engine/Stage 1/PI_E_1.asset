@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a52e65327324e944819f494dd1f9692, type: 3}
+  m_Name: PI_E_1
+  m_EditorClassIdentifier: 
+  room: 3
+  informations:
+  - idx: 3
+    games: 1
+    hasPrecondition: 1
+    preconditionRoom: 2
+    preconditionIdx: 6
+    hasSecondPrecondition: 0
+    secondPreconditionRoom: 0
+    secondPreconditionIdx: 0
+  - idx: 4
+    games: 1
+    hasPrecondition: 0
+    preconditionRoom: 0
+    preconditionIdx: 0
+    hasSecondPrecondition: 0
+    secondPreconditionRoom: 0
+    secondPreconditionIdx: 0
+  - idx: 6
+    games: 2
+    hasPrecondition: 1
+    preconditionRoom: 2
+    preconditionIdx: 7
+    hasSecondPrecondition: 0
+    secondPreconditionRoom: 0
+    secondPreconditionIdx: 0
+  - idx: 7
+    games: 2
+    hasPrecondition: 0
+    preconditionRoom: 0
+    preconditionIdx: 0
+    hasSecondPrecondition: 0
+    secondPreconditionRoom: 0
+    secondPreconditionIdx: 0
+  - idx: 8
+    games: 1
+    hasPrecondition: 0
+    preconditionRoom: 0
+    preconditionIdx: 0
+    hasSecondPrecondition: 0
+    secondPreconditionRoom: 0
+    secondPreconditionIdx: 0
+  - idx: 9
+    games: 1
+    hasPrecondition: 0
+    preconditionRoom: 0
+    preconditionIdx: 0
+    hasSecondPrecondition: 0
+    secondPreconditionRoom: 0
+    secondPreconditionIdx: 0
