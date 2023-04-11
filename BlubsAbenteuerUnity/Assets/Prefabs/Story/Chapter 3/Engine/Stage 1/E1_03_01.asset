@@ -15,7 +15,7 @@ MonoBehaviour:
   gameType: 5
   minValue: 1
   maxValue: 6
-  useExplicitValues: 0
+  useExplicitValues: 1
   explicitValues: 020000000300000006000000
   numberOfValues: 2
   displayMode: 2
