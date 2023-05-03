@@ -3,7 +3,7 @@
 It was developed by [Maximilian Anzinger](https://github.com/MaximilianAnzinger) and [Georg Henning](https://github.com/Mauri2070) as IDP (interdisciplinary project) during the Master of Informatics at TUM (Technical University of Munich).
 The development was guided by the [research team](https://www.psy.lmu.de/ffp_en/persons/ag-niklas/index.html) of Prof. Dr. Frank Niklas, professor for Educational Psychology and Family Studies at LMU ("Ludwig-Maximilian Universität München", University of Munich).
 
-A scientific report about "Blubs Abenteuer" can be found in [BlubsAbenteuerReport.pdf](github.com/Mauri2070/Blubs-Abenteuer/BlubsAbenteuerReport.pdf).
+A scientific report about "Blubs Abenteuer" can be found in [BlubsAbenteuerReport.pdf](./BlubsAbenteuerReport.pdf).
 
 ## Opening the Unity Project
 To open the Unity project, download the folder BlubsAbenteuerUnity, add it to your projects overview in the Unity Hub, and start the editor from there.
