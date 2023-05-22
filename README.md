@@ -24,7 +24,7 @@ Depending on your installed Unity versions you might have to select one first to
 - Start the game with "BlubsAbenteuer.exe", no installation is needed.
 
 ## Legal Disclaimer
-Most assets used in this game are available free of charge on www.freepik.com.
-Assets used for number representations are taken from older apps of the Learning4Kids project and were made by Jan Essig, Dipl. Designer (FH).
+Most assets used in this game are available free of charge on [Freepik](www.freepik.com) or where created from scratch.
+Assets used for number representations are taken from older apps of the Learning4Kids project and are designed by Jan Essig, Dipl. Designer (FH).
 
 The exclusive right of use lies with the University of Munich (LMU). For questions, you can contact [Prof. Dr. Frank Niklas](https://www.psy.lmu.de/ffp_en/persons/w2-professorship-2/niklas_frank/index.html).
